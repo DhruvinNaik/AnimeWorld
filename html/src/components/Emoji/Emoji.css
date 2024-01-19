@@ -1,0 +1,13 @@
+.insta{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+p{
+    margin-left: 50px;
+}
+.insta p:hover {
+    cursor: pointer;
+    transform: scale(2.2); /* Adjust the scale based on your preference */
+  }
+  

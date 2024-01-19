@@ -1,0 +1,27 @@
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 800px;
+}
+h2{
+    margin-left:110px;
+}
+p{
+    margin-left:110px;
+}
+.map-container {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .map {
+    margin-left: 460px;
+    flex: 1;
+  }
+  
+  .about {
+    flex: 1;
+    padding: 16px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+  }
